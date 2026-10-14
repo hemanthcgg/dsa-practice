@@ -1,7 +1,4 @@
 # Time and Space Complexity: Study Notes
-
-Welcome to your study notes on algorithmic complexity. This guide covers the fundamental concepts needed to analyze how efficiently algorithms run and how much memory they consume.
-
 ---
 
 ## 1. Asymptotic Notations: Big O, Big Omega, and Big Theta
